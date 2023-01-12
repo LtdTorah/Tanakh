@@ -7,3 +7,6 @@ Tanakh DAO:
 
 https://app.realms.today/dao/F8eE2yGkADpeeqQHbiAHxGvdyALF8G3Wz3WHycBnQQKc
 
+Reddit:
+
+https://www.reddit.com/r/tanakh202301121217/
