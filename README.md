@@ -10,3 +10,7 @@ https://app.realms.today/dao/F8eE2yGkADpeeqQHbiAHxGvdyALF8G3Wz3WHycBnQQKc
 Reddit:
 
 https://www.reddit.com/r/tanakh202301121217/
+
+Solscan:
+
+https://solscan.io/token/EbgGZdpMG8cs9xZywmWkwHJNRNUVsKCptjUd1C7qj2zA
